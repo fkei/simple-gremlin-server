@@ -4,8 +4,11 @@ Gremlin Server (Tinkergraph/Neo4J) for Docker
 # Included products
 
 - Tinkerpop3 / Gremlin Server / Tinkergraph [http://tinkerpop.apache.org/](http://tinkerpop.apache.org/)
+  - Version: 3.3.3
 - Neo4j [https://neo4j.com/](https://neo4j.com/)
+  - Embedded neo4j-gremlin (neo4j-3.2.3.jar)
 - graphexp [https://github.com/bricaud/graphexp](https://github.com/bricaud/graphexp)
+  - Version: 0.8.0
 - supervisor [http://supervisord.org/](http://supervisord.org/)
 
 # Pre
